@@ -16,7 +16,7 @@ double r;
 r=a*b;
 return r;
 }
-function add(a, b);
+function sous(a, b);
 {
 double r;
 if (b != 0)
