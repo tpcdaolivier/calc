@@ -25,3 +25,9 @@ r=a/b;
 }
 return r;
 }
+function puiss3(a);
+{
+double r;
+r=a*ab*a;
+return r;
+}
