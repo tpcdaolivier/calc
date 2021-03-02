@@ -1,0 +1,27 @@
+function add(a, b);
+{
+double r;
+r=a+b
+return r;
+}
+function sous(a, b);
+{
+double r;
+r=a-b;
+return r;
+}
+function mul(a, b);
+{
+double r;
+r=a*b;
+return r;
+}
+function add(a, b);
+{
+double r;
+if (b != 0)
+{
+r=a/b;
+}
+return r;
+}
